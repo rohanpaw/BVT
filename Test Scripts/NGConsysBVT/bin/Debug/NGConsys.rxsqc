@@ -1,0 +1,112 @@
+[
+  {
+    "Enabled": "False",
+    "TestSuite": "NGConsys",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "BuildVerificationTest",
+    "RunConfig": "Default"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Germany",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Belgium",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "CZech",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Swiss",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Portugal",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Slovakia",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Italy",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Spain",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Turkey",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Croatia",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Greece",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Austria",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Netherlands",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Denmark",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Hungary",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Norway",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Poland",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "False",
+    "TestSuite": "Russia",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "True",
+    "TestSuite": "Finland",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "True",
+    "TestSuite": "UK",
+    "RunConfig": "TestRun"
+  }
+]
